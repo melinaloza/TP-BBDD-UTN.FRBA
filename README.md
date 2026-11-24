@@ -14,9 +14,8 @@ Trabajo Práctico de la materia **Bases de Datos** — Universidad Tecnológica 
 | Apellido y Nombre | Legajo |
 | :--- | :---: |
 | **Deza, Alexia** | `2035625` |
-| **Fernández, Javier** *(Representante)* | `2133222` |
+| **Fernández, Javier** | `2133222` |
 | **Loza Flores, Melina** | `1687645` |
-| **Bidart, Franco** | `232712` |
 
 ---
 
